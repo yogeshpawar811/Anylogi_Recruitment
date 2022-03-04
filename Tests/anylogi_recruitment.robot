@@ -75,7 +75,7 @@ User should be able to deposit money
     Then User able to see transaction fee is 30% of the intended deposit amount
 
 Account balance should update every 10 seconds
-    [Tags]    Account_Balance_Updae_Verificaion
+    [Tags]    Account_Balance_Update_Verificaion
     Given browser is opened to login page
     Then welcome page should be open
     And User clicks on SignUp button
