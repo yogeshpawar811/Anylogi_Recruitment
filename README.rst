@@ -1,5 +1,5 @@
 To Execute Anylogi Recruitment Script by Tag name:
-post-processing outputs::
+::
 
    robot -d Results -i SignUp_Validation Tests/anylogi_recruitment.robot
 
