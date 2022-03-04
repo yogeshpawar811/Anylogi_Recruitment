@@ -1,3 +1,14 @@
+To Execute Anylogi Recruitment Script by Tag name:
+post-processing outputs::
+
+   robot -d Results -i SignUp_Validation Tests/anylogi_recruitment.robot
+
+To Execute full Anylogi Recruitment suite:
+post-processing outputs::
+
+   robot -d Results Tests/anylogi_recruitment.robot
+
+
 Robot Framework
 ===============
 
