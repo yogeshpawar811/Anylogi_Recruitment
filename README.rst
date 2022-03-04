@@ -158,4 +158,6 @@ __ http://creativecommons.org/licenses/by/3.0
 
 
 To Execute Anylogi Recruitment Script by Tag name:
-robot -d Results -i SignUp_Validation Tests/anylogi_recruitment.robot
+post-processing outputs::
+
+   robot -d Results -i SignUp_Validation Tests/anylogi_recruitment.robot
