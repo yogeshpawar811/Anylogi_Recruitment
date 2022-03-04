@@ -11,7 +11,7 @@ To Execute full Anylogi Recruitment suite:
 
    robot -d Results Tests/anylogi_recruitment.robot
 
-![](Results/Screenshot 2022-03-05.jpg)
+After Execution We can find the generated results in Results folder
 
 
 Robot Framework
