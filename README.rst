@@ -1,3 +1,17 @@
+AnyMind-Anylogi Recruitment Automation Script Using Robot Framework + Python
+===============
+
+To Execute Anylogi Recruitment Script by Tag name:
+::
+
+   robot -d Results -i SignUp_Validation Tests/anylogi_recruitment.robot
+
+To Execute full Anylogi Recruitment suite:
+::
+
+   robot -d Results Tests/anylogi_recruitment.robot
+
+
 Robot Framework
 ===============
 
@@ -155,3 +169,9 @@ in the ecosystem are also open source, but they may use different licenses.
 
 __ http://apache.org/licenses/LICENSE-2.0
 __ http://creativecommons.org/licenses/by/3.0
+
+
+To Execute Anylogi Recruitment Script by Tag name:
+post-processing outputs::
+
+   robot -d Results -i SignUp_Validation Tests/anylogi_recruitment.robot
