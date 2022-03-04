@@ -1,4 +1,4 @@
-AnyMind
+AnyMind-Anylogi Recruitment Automation Script Using Robot Framework + Python
 ===============
 
 To Execute Anylogi Recruitment Script by Tag name:
