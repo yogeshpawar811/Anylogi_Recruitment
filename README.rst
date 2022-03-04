@@ -11,7 +11,7 @@ To Execute full Anylogi Recruitment suite:
 
    robot -d Results Tests/anylogi_recruitment.robot
 
-![](Anylogi_Recruitment/Results/Screenshot 2022-03-05.jpg)
+![](Results/Screenshot 2022-03-05.jpg)
 
 
 Robot Framework
