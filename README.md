@@ -1,7 +1,3 @@
-# Anylogi_Recruitment
-Anylogi Recruitment
-
-
 Robot Framework
 ===============
 
