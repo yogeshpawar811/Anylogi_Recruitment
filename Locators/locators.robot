@@ -9,25 +9,16 @@ ${DEPOSIT_BTN}         //*[contains(text(),'Deposit')]
 ${USERNAME_TEXTBOX}         //input[1]
 ${PASSWORD_TEXTBOX}         //input[2]
 ${ERROR_MSG_SPAN}         //span
-
 ${WITHDRAW}         //*[contains(text(),'引き出す')]
-#${WITHDRAW}         //*[@id="root"]/div/div/div/div/h2/a[2]
 ${DEPOSIT}         //*[contains(text(),'デポジット')]
-
-#${CURRENT_BALANCE}         .//*[contains(text(),'残高')]//following::span[1]
 ${CURRENT_BALANCE}         //*[@id="root"]/div/div/div/span[2]
-#${WITHDRAW_AMOUNT_TEXTBOX}         .//input
 ${TRANSACTION_AMOUNT_TEXTBOX}         //*[@id="root"]/div/div/div/input
 ${CALCULATED_TRANSACTION_FEES}         //*[@id="root"]/div/div/div/span[4]
 ${AFTER_TRANSACTION_FINAL_WITHDRAWAL_KEY}         //*[@id="root"]/div/div/div/span[6]
 ${AFTER_TRANSACTION_FINAL_DEPOSIT_KEY}         //*[@id="root"]/div/div/div/span[6]
 ${ACCOUNT_CURRENT_BALANCE}         //*[@id="root"]/div/div/div/div/table/tbody/tr[1]/td[2]
 
-
-
-
-
-
+#Test Data
 ${VALID_PASSWORD}       Testtestte1
 ${WITHOUT_NUMBER_PASSWORD}       Testtestte
 ${WITHOUT_UPPERCASE_PASSWORD}       testtestte1
