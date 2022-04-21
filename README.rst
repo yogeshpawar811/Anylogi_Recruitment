@@ -1,12 +1,12 @@
-AnyMind-Anylogi Recruitment Automation Script Using Robot Framework + Python
+AnyMind-Anylogi Automation Script Using Robot Framework + Python
 ===============
 
-To Execute Anylogi Recruitment Script by Tag name:
+To Execute Anylogi Script by Tag name:
 ::
 
    robot -d Results -i SignUp_Validation Tests/anylogi_recruitment.robot
 
-To Execute full Anylogi Recruitment suite:
+To Execute full Anylogi suite:
 ::
 
    robot -d Results Tests/anylogi_recruitment.robot
